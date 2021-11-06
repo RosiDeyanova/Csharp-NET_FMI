@@ -1,0 +1,14 @@
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\bin\Debug\WpfApp4.exe.config
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\bin\Debug\WpfApp4.exe
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\bin\Debug\WpfApp4.pdb
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\MainWindow.baml
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\MainWindow.g.cs
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\App.g.cs
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\WpfApp4_MarkupCompile.cache
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\WpfApp4.g.resources
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\WpfApp4.Properties.Resources.resources
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\WpfApp4.exe
+E:\FMI\3 Курс\Csharp-NET_FMI\CalculatorSample\obj\Debug\WpfApp4.pdb
