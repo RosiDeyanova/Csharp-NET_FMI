@@ -1,0 +1,7 @@
+E:\FMI\3 Курс\Csharp-NET_FMI\Week7\Week7\Problem1\bin\Debug\Problem1.pdb
+E:\FMI\3 Курс\Csharp-NET_FMI\Week7\Week7\Problem1\obj\Debug\Problem1.csproj.AssemblyReference.cache
+E:\FMI\3 Курс\Csharp-NET_FMI\Week7\Week7\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+E:\FMI\3 Курс\Csharp-NET_FMI\Week7\Week7\Problem1\obj\Debug\Problem1.pdb
+E:\FMI\3 Курс\Csharp-NET_FMI\Week7\Week7\Problem1\bin\Debug\Problem1.dll.config
+E:\FMI\3 Курс\Csharp-NET_FMI\Week7\Week7\Problem1\bin\Debug\Problem1.dll
+E:\FMI\3 Курс\Csharp-NET_FMI\Week7\Week7\Problem1\obj\Debug\Problem1.dll
