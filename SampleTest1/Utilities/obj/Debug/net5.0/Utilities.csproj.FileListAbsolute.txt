@@ -1,0 +1,12 @@
+E:\FMI\3 Курс\SampleTest1\Utilities\bin\Debug\net5.0\Utilities.deps.json
+E:\FMI\3 Курс\SampleTest1\Utilities\bin\Debug\net5.0\Utilities.dll
+E:\FMI\3 Курс\SampleTest1\Utilities\bin\Debug\net5.0\ref\Utilities.dll
+E:\FMI\3 Курс\SampleTest1\Utilities\bin\Debug\net5.0\Utilities.pdb
+E:\FMI\3 Курс\SampleTest1\Utilities\obj\Debug\net5.0\Utilities.csproj.AssemblyReference.cache
+E:\FMI\3 Курс\SampleTest1\Utilities\obj\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\FMI\3 Курс\SampleTest1\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+E:\FMI\3 Курс\SampleTest1\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfo.cs
+E:\FMI\3 Курс\SampleTest1\Utilities\obj\Debug\net5.0\Utilities.csproj.CoreCompileInputs.cache
+E:\FMI\3 Курс\SampleTest1\Utilities\obj\Debug\net5.0\Utilities.dll
+E:\FMI\3 Курс\SampleTest1\Utilities\obj\Debug\net5.0\ref\Utilities.dll
+E:\FMI\3 Курс\SampleTest1\Utilities\obj\Debug\net5.0\Utilities.pdb
